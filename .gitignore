@@ -1,6 +1,6 @@
 db.sqlite3
 .vscode
 **/__pycache__/
-**/__init__.py/
+my_site/__init__.py
 **/images/
 uploads 
